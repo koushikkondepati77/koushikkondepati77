@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koushikkondepati77
-- 👀 I’m interested in ... Full-Stack Web Development
-- 🌱 I’m currently learning ... Core Principles of Software Development
+- 👀 I’m interested in ... Full-Stack Web Development, Automation
+- 🌱 I’m currently learning ... Core Principles of Software Development, Automation Testing
 - 💞️ I’m looking to collaborate on ... Some cool Projects
 - 📫 How to reach me ... koushikkondepati@gmail.com
 
